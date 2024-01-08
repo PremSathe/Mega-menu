@@ -10,15 +10,10 @@ export const menuItems = [{
             title: "web development",
             submenu: [{
                     title: "Frontend",
-                     submenu: [{
-         title: "NodeJS",
-     },
-     {
-         title: "PHP",
-     },
- ],
-
+                    
                 },
+
+
                 {
                     title: "Backend",
                     submenu: [{
